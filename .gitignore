@@ -1,0 +1,5 @@
+node_modules/
+Backend/.venv/
+Backend/.vscode/
+Backend/travel/.env
+Backend/travel/db.sqlite3
